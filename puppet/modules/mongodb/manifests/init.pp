@@ -3,7 +3,7 @@ class mongodb {
 require mongodb::params
 
 Exec {
-  path => [ "/bin/", "/sbin/" , "/usr/bin/", "/usr/sbin/" ],
+  path => [ "/bin/", "/sbin/" , "/usr/bin/", "/usr/sbin/","/usr/local/bin" ],
 }
 
 

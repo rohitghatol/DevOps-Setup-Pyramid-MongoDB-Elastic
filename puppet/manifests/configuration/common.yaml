@@ -1,2 +1,11 @@
 ---
 mongodb_version : "2.6.1"
+java_package_name : "openjdk-6-jre"
+
+elasticsearch_download_url : "https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-0.90.7.deb"
+elasticsearch_deb_file_name : "elasticsearch-0.90.7.deb"
+
+python_package_name : "python-dev"
+
+easy_install_download_url : "https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py"
+easy_install_file_name : "ez_setup.py"
